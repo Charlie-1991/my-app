@@ -3,7 +3,9 @@ import React from "react"
 
 function Header() {
   return(
-    <h1 className="header">First Application</h1>
+    <header>
+      <h1>Keeper App</h1>
+    </header>
   )
 }
 
